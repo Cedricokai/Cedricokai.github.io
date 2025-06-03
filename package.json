@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Cedrickeys/Cedricportfolio.github.io/",
+  "homepage": "/https://github.com/Cedrickeys/Cedricportfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
