@@ -13,5 +13,6 @@ export default defineConfig({
         autoprefixer(),
       ],
     },
+     base: 'https://github.com/Cedrickeys/Cedric-portfolio',
   },
 })
